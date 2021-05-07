@@ -4,6 +4,9 @@
     padding: 0px; 
     box-sizing: border-box;
 }
+#current {
+	text-decoration: overline;
+}
 li {
 	display: inline-block;
 }
