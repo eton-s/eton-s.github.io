@@ -6,6 +6,7 @@
 }
 #current {
 	text-decoration: overline;
+	font-weight: 900;
 }
 li {
 	display: inline-block;
