@@ -35,6 +35,13 @@ a:link, a:visited {
 body {
 	background-color: rgb(255, 255, 255); 
 }
+.main {
+	padding: 10px 20px;
+}
+#status {
+	padding: 5px;
+	background-color: rgba(255, 0, 0, 0.1);
+}
 h1 {
 	text-align: center;
 	padding: 20px;
@@ -48,3 +55,9 @@ h4 {
 p {
 	color: rgb(0, 0, 0);
 }
+/*
+.contact {
+	border: 1px solid rgba(238, 237, 237,0.8);
+	width: 35%;
+	margin: auto;
+} */
