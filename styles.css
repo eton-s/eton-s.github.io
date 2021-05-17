@@ -65,7 +65,7 @@ p {
   }
   .colmain {
 	border: 1px solid black;
-	min-height: 300px;
+	min-height: 250px;
   }
   .row {
 	text-align: center;
@@ -107,4 +107,11 @@ p {
   a.icon:hover, a.icon:active {
 	color: black;
 	text-shadow: 1px 1px 1px red;
+  }
+  nav.container-fluid {
+	  position: sticky;
+	  top: 0;
+  }
+  p.aboutme {
+	  margin: 20px 30px;
   }
